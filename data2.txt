@@ -1,0 +1,5 @@
+{
+    "username": "user1",
+    "chat_message": "Hello, this is a test message!"
+}
+
