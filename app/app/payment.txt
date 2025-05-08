@@ -1,0 +1,6 @@
+{
+    "checkout": 1,
+    "payment_method": "Credit Card",
+    "payment_date": "2025-05-05T14:30:00",
+    "payment_status": "Pending"
+}
